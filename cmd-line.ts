@@ -1,4 +1,4 @@
-import {TTTGame as Game} from "./Model";
+import {TTTGame as Game} from "./model";
 
 //for CLI interactiv
 const readline = require('readline');
